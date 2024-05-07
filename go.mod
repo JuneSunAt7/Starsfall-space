@@ -1,4 +1,4 @@
-module term
+module github.com/JuneSunAt7/Raindrops-NetMag
 
 go 1.21.4
 
